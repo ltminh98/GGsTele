@@ -14,11 +14,14 @@ minhlai.forwork@gmail.com
 Tracker ghi lại và theo dõi thu chi, đưa báo cáo, cảnh báo mức độ chi tiêu... tương tác với bot telegram  
 <p>
   Setup:
-  1. Tạo bot telegram bằng cách nói chuyện với botFather
-  2. Lấy bot token
-  3. Mở file Google Sheets, mở Menu -> configuration
-  4. Nhập bot token và ấn submit
-  5. Config bot 
+  <ol>
+  <li>Tạo bot telegram bằng cách nói chuyện với botFather</li>
+  <li>Lấy bot token</li>
+  <li>Mở file Google Sheets, mở Menu -> configuration</li>
+  <li>Nhập bot token và ấn submit</li>
+  <li>Config bot</li> 
+  </ol>
+
 </p>
 UPDATING...
 
